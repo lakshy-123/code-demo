@@ -3,7 +3,7 @@
 // }
 
 //project 
-/*
+
  let BASE_URL="https://v6.exchangerate-api.com/v6/b7b1d233bee357357835c041/latest/USD";
 
 const dropdown=document.querySelectorAll(".dropdown select");
@@ -69,4 +69,3 @@ const update=(element)=>{
     let data= response.json;
     console.log(data);
 });
-*/

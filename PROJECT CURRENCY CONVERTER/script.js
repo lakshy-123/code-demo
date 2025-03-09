@@ -4,13 +4,15 @@
 
 //project 
 
- let BASE_URL="https://v6.exchangerate-api.com/v6/b7b1d233bee357357835c041/latest/USD";
+ let BASE_URL="https://v6.exchangerate-api.com/v6/b7b1d233bee357357835c041/pair";
 
 const dropdown=document.querySelectorAll(".dropdown select");
 console.log(dropdown);
-let mybtn=document.querySelector(".btn");
-let tocurrency= document.querySelector(".to select");
-let fromcurrency=document.querySelector(".from select");
+let mybtn=document.querySelector("form button");
+let fromcurrency= document.querySelector(".from select");
+let tocurrency=document.querySelector(".to select");
+ let msg= document.querySelector(".msg");
+ console.log(msg);
 
 
   
@@ -63,9 +65,13 @@ const update=(element)=>{
         amount.value="1";
     }
     console.log(fromcurrency.value,tocurrency.value);
-    const URL=`${BASE_URL}`;
+    const URL=`${BASE_URL}/${fromcurrency.value}/${tocurrency.value}`;
     let response= await fetch(URL);
-    console.log(response.url);
-    let data= response.json;
-    console.log(data);
-});
+//    console.log(response);
+    let data= await response.json();
+    let rate=  data;
+    console.log(rate.conversion_rate);
+
+    let FinalAmount =amtval * rate.conversion_rate;
+    msg.innerText=`${amtval} ${fromcurrency.value} = ${FinalAmount} ${tocurrency.value}`;
+    });

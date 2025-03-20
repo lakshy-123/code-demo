@@ -4,6 +4,7 @@
 
 //project 
 
+
  let BASE_URL="https://v6.exchangerate-api.com/v6/b7b1d233bee357357835c041/pair";
 
 const dropdown=document.querySelectorAll(".dropdown select");
@@ -13,6 +14,15 @@ let fromcurrency= document.querySelector(".from select");
 let tocurrency=document.querySelector(".to select");
  let msg= document.querySelector(".msg");
  console.log(msg);
+ let toggle=document.getElementById("toggle");
+ console.log(toggle);
+const borderEffect=()=>{
+    toggle.style.borderColor="orange";
+
+}
+ toggle.addEventListener("click",borderEffect);
+
+
 
 
   
@@ -58,6 +68,7 @@ const update=(element)=>{
  mybtn.addEventListener("click",  async (evt)=>{
     let amount =document.querySelector(".amount input");
     evt.preventDefault();
+    mybtn.style.borderColor="orange";
     let amtval= amount.value;
     console.log(amtval);
     if(amtval ==="" || amtval<1){

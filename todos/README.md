@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Resource</title></head>
+</head>
 <body>
 <h2><a rel=""  href ="">TODO-LIST</a></h2>
 </body>

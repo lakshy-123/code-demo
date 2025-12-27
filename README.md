@@ -15,7 +15,7 @@ Welcome to my development project This repository a collection of web developmen
 
 ### 2. Job Search Portal (GFG Assignment)
 *Speciality:* A structured professional layout designed for high user engagement.
-* *Key Features:* Filterable job listings, professional typography, and mobile-friendly navigation.
+* *Key Features:* Filterable job listings, professional typography, Fully Responsive UI (Mobile/Desktop). and mobile-friendly navigation.
 * *Use Case:* Serves as a frontend template for recruitment agencies or career platforms.
 * *Technologies:* HTML5, CSS3, Flexbox/Grid.
 * *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/GeeksforGeeks%20Assignmant-1/Job%20Search%20Portal/index.html)
@@ -24,7 +24,7 @@ Welcome to my development project This repository a collection of web developmen
 
 ### 3. E-commerce Website Design (GFG Assignment)
 *Speciality:* Modern aesthetics inspired by top-tier shopping platforms.
-* *Key Features:* Product grid display, interactive buttons, and high-quality image integration.
+* *Key Features:* Product grid display, interactive buttons, Fully Responsive UI (Mobile/Desktop). and high-quality image integration.
 * *Use Case:* Can be used as a base for building full-stack online stores.
 * *Technologies:* HTML5, CSS3, JavaScript.
 * *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/GeeksforGeeks%20Assignmant-1/E-commerce%20Website/index.html)
@@ -33,7 +33,7 @@ Welcome to my development project This repository a collection of web developmen
 ## 🌐 Full-Stack Applications
 ### 4. Auth-System
 *Speciality:* Focus on security and user experience during the onboarding process.
-* *Key Features:* Login and Registration forms, client-side validation, and secure UI patterns.
+* *Key Features:* Login and Registration forms, client-side validation, Fully Responsive UI (Mobile/Desktop). and secure UI patterns.
 * *Use Case:* A reusable module for any web application requiring user authentication.
 * *Technologies:* HTML5, CSS3, Bootstrap 5, JavaScript, PHP, and MySQL Database.
 * *Demo:* [View Live Demo](http://localhost/auth-system/register.php)
@@ -42,17 +42,19 @@ Welcome to my development project This repository a collection of web developmen
 
 ### 5. Todo List Application
 *Speciality:* Lightweight productivity tool with optimized task management.
-* *Key Features:* Add/Delete tasks, status tracking, and persistent UI.
+* *Key Features:* Add/Delete tasks, status tracking, Fully Responsive UI (Mobile/Desktop). and persistent UI.
 * *Use Case:* Personal task tracking and daily goal management.
-* *Technologies:* Vanilla JavaScript (DOM Manipulation), HTML, CSS.
+* *Technologies:* HTML5, CSS3, Bootstrap, Vanilla JavaScript (DOM Manipulation), PHP, and MySQL Database.
 * *Demo:* [View Live Demo](http://localhost/todos/index.php)
 
 ---
 
-## 📈 Tech Stack Overview
-* *Frontend:* HTML5, CSS3 (Modern layouts)
+## 🛠️ Skills & Technologies
+* *Frontend:* HTML5, CSS3 (Modern layouts) Responsive Design.
 * *Logic:* JavaScript (ES6+ features)
-* *Deployment:* GitHub Pages
-
+* *Languages:* HTML5, CSS3, JavaScript (ES6+) PHP.
+* *Frameworks:* Bootstrap 5.
+* *Database:* MySQL.
+* *Tools:* Git/GitHub, VS Code.
 <br>
 <h3>my-first-repo.</h3>

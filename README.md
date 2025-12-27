@@ -2,7 +2,8 @@
 Welcome to my development project This repository a collection of web development projects, functional utility tools frontend designs.
 
 ## 🛠️ Featured Projects
-
+---
+## 📈 Frontend & API Projects
 ### 1. Currency Converter
 *Speciality:* Real-time financial utility with a focus on accuracy and clean UI.
 * *Key Features:* Instant currency conversion, responsive design, and easy-to-use interface.
@@ -29,12 +30,12 @@ Welcome to my development project This repository a collection of web developmen
 * *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/GeeksforGeeks%20Assignmant-1/E-commerce%20Website/index.html)
 
 ---
-
+## 🌐 Full-Stack Applications
 ### 4. Auth-System
 *Speciality:* Focus on security and user experience during the onboarding process.
 * *Key Features:* Login and Registration forms, client-side validation, and secure UI patterns.
 * *Use Case:* A reusable module for any web application requiring user authentication.
-* *Technologies:* HTML5, CSS3, JavaScript logic.
+* *Technologies:* HTML5, CSS3, Bootstrap 5, JavaScript, PHP, and MySQL Database.
 * *Demo:* [View Live Demo](http://localhost/auth-system/register.php)
 
 ---

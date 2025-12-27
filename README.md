@@ -57,4 +57,3 @@ Welcome to my development project This repository a collection of web developmen
 * *Database:* MySQL.
 * *Tools:* Git/GitHub, VS Code.
 <br>
-<h3>my-first-repo.</h3>

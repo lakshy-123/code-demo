@@ -2,7 +2,7 @@
 Welcome to my development project This repository a collection of web development projects, functional utility tools frontend designs.
 
 ## 🛠️ Featured Projects
-
+---
 ## 📈 Frontend & API Projects
 ### 1. Currency Converter
 *Speciality:* Real-time financial utility with a focus on accuracy and clean UI.

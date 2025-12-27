@@ -35,7 +35,7 @@ Welcome to my development project This repository a collection of web developmen
 * *Key Features:* Login and Registration forms, client-side validation, and secure UI patterns.
 * *Use Case:* A reusable module for any web application requiring user authentication.
 * *Technologies:* HTML5, CSS3, JavaScript logic.
-* *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/auth-system/index.html)
+* *Demo:* [View Live Demo](http://localhost/auth-system/register.php)
 
 ---
 
@@ -44,7 +44,7 @@ Welcome to my development project This repository a collection of web developmen
 * *Key Features:* Add/Delete tasks, status tracking, and persistent UI.
 * *Use Case:* Personal task tracking and daily goal management.
 * *Technologies:* Vanilla JavaScript (DOM Manipulation), HTML, CSS.
-* *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/todos/index.html)
+* *Demo:* [View Live Demo](http://localhost/todos/index.php)
 
 ---
 

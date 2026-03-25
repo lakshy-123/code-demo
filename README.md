@@ -9,7 +9,7 @@ Welcome to my development project This repository a collection of web developmen
 * *Key Features:* Instant currency conversion, responsive design, and easy-to-use interface.
 * *Use Case:* Helpful for travelers and finance professionals to calculate exchange rates on the go.
 * *Technologies:* HTML5, CSS3, JavaScript (Fetch API for real-time rates).
-* *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/PROJECT%20CURRENCY%20CONVERTER/index.html)
+* *Demo:* [View Live Demo](https://currency-track.netlify.app/)
 
 ---
 
@@ -18,7 +18,7 @@ Welcome to my development project This repository a collection of web developmen
 * *Key Features:* Filterable job listings, professional typography, Fully Responsive UI (Mobile/Desktop). and mobile-friendly navigation.
 * *Use Case:* Serves as a frontend template for recruitment agencies or career platforms.
 * *Technologies:* HTML5, CSS3, Flexbox/Grid.
-* *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/GeeksforGeeks%20Assignmant-1/Job%20Search%20Portal/index.html)
+* *Demo:* [View Live Demo](https://career-lift.netlify.app/)
 
 ---
 
@@ -27,7 +27,7 @@ Welcome to my development project This repository a collection of web developmen
 * *Key Features:* Product grid display, interactive buttons, Fully Responsive UI (Mobile/Desktop). and high-quality image integration.
 * *Use Case:* Can be used as a base for building full-stack online stores.
 * *Technologies:* HTML5, CSS3, JavaScript.
-* *Demo:* [View Live Demo](https://lakshy-bharadwaj24.github.io/Dev-Projects/GeeksforGeeks%20Assignmant-1/E-commerce%20Website/index.html)
+* *Demo:* [View Live Demo](https://zyp-store.netlify.app/)
 
 ---
 ## 🌐 Full-Stack Applications

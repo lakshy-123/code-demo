@@ -13,7 +13,7 @@ Welcome to my development project This repository a collection of web developmen
 
 ---
 
-### 2. Job Search Portal (GFG Assignment)
+### 2. Job Search Portal
 *Speciality:* A structured professional layout designed for high user engagement.
 * *Key Features:* Filterable job listings, professional typography, Fully Responsive UI (Mobile/Desktop). and mobile-friendly navigation.
 * *Use Case:* Serves as a frontend template for recruitment agencies or career platforms.
@@ -22,7 +22,7 @@ Welcome to my development project This repository a collection of web developmen
 
 ---
 
-### 3. E-commerce Website Design (GFG Assignment)
+### 3. E-commerce Website Design
 *Speciality:* Modern aesthetics inspired by top-tier shopping platforms.
 * *Key Features:* Product grid display, interactive buttons, Fully Responsive UI (Mobile/Desktop). and high-quality image integration.
 * *Use Case:* Can be used as a base for building full-stack online stores.
